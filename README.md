@@ -719,3 +719,70 @@ life_philosophy:
 </p>
 
 ---
+<!-- ===================================================== -->
+<!--                  CONNECT WITH ME                      -->
+<!-- ===================================================== -->
+
+# <img src="https://img.icons8.com/fluency/48/handshake.png" width="35"/> Let's Connect
+
+<p align="center">
+<i>Open to collaborations, internships, freelance opportunities, and meaningful conversations about technology, software engineering, and innovation.</i>
+</p>
+
+<br>
+
+<p align="center">
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💬 Let's Build Something Amazing Together
+
+Whether it's building scalable web applications, discussing software engineering, contributing to open source, or creating innovative products—I'm always excited to connect with passionate developers and tech enthusiasts.
+
+</div>
+
+<br>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Available%20for-Internships-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributions-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Let's%20Build-Together-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Thanks for Visiting My Profile!
+
+If you like my work, consider ⭐ starring my repositories and connecting with me.
+
+</p>
+
+---
