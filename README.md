@@ -604,3 +604,32 @@ Enhancing logical thinking through contests and challenges.
 </p>
 
 ---
+<!-- ===================================================== -->
+<!--               CONTRIBUTION SNAKE                      -->
+<!-- ===================================================== -->
+
+# <img src="https://img.icons8.com/fluency/48/snake.png" width="35"/> Contribution Snake
+
+<p align="center">
+  <i>Every contribution leaves a trail. Every commit tells a story.</i>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+    alt="Contribution Snake Animation"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <b><i>
+  "Small, consistent contributions eventually create extraordinary engineering journeys."
+  </i></b>
+</p>
+
+---
