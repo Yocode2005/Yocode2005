@@ -633,3 +633,89 @@ Enhancing logical thinking through contests and challenges.
 </p>
 
 ---
+<!-- ===================================================== -->
+<!--                  CURRENT FOCUS                        -->
+<!-- ===================================================== -->
+
+# <img src="https://img.icons8.com/fluency/48/goal.png" width="35"/> Current Focus
+
+<p align="center">
+<i>Continuously learning, building, and evolving as a Software Engineer.</i>
+</p>
+
+---
+
+```yaml
+name: Yogesh Kumar Meena
+
+current_role:
+  - Full Stack Developer
+  - Software Engineering Student
+
+currently_learning:
+  - Advanced React & Next.js
+  - Backend System Design
+  - Microservices Architecture
+  - Docker & DevOps
+  - Cloud Computing (AWS)
+  - Artificial Intelligence & Machine Learning
+
+currently_building:
+  - Production-Ready MERN Applications
+  - High-Performance REST APIs
+  - Personal Developer Portfolio
+  - Open Source Projects
+
+technical_focus:
+  - Scalable Web Applications
+  - Clean Architecture
+  - Database Optimization
+  - Authentication & Security
+  - Performance Optimization
+
+daily_routine:
+  - Solving Data Structures & Algorithms
+  - Learning Modern Technologies
+  - Building Real-World Projects
+  - Reading Engineering Blogs
+  - Exploring Open Source
+
+career_goal:
+  - Software Engineer @ Top Product-Based Company
+
+open_to:
+  - Software Engineering Internships
+  - Open Source Collaboration
+  - Freelance Opportunities
+  - Full Stack Development Projects
+  - Technical Discussions
+
+life_philosophy:
+  "Keep Learning • Keep Building • Keep Growing 🚀"
+```
+
+---
+
+<div align="center">
+
+### 🎯 2026 Goals
+
+| Goal | Progress |
+|:-----|:--------:|
+| 🚀 Build Production-Level Projects | 🟣🟣🟣⚪⚪ |
+| 🧠 Master Data Structures & Algorithms | 🟣🟣🟣🟣⚪ |
+| ☁️ Learn Cloud & DevOps | 🟣🟣⚪⚪⚪ |
+| 🤖 Explore AI & Machine Learning | 🟣🟣⚪⚪⚪ |
+| 🌍 Contribute to Open Source | 🟣🟣🟣⚪⚪ |
+
+</div>
+
+---
+
+<p align="center">
+
+> **"Success is built one commit, one project, and one lesson at a time."**
+
+</p>
+
+---
