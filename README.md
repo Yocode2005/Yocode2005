@@ -575,3 +575,32 @@ Enhancing logical thinking through contests and challenges.
 </div>
 
 ---
+<!-- ===================================================== -->
+<!--          CONTRIBUTION ACTIVITY GRAPH                  -->
+<!-- ===================================================== -->
+
+# <img src="https://img.icons8.com/fluency/48/activity-history.png" width="35"/> Contribution Activity
+
+<p align="center">
+  <i>Consistency isn't built in a day—it's reflected through every commit, contribution, and line of code.</i>
+</p>
+
+<br>
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=c084fc&line=8b5cf6&point=ffffff&area=true&hide_border=true&radius=16&title_color=c084fc&custom_title=Contribution%20Activity"
+    alt="Contribution Activity Graph"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <b><i>
+  "Great engineers aren't defined by a single breakthrough—they're defined by showing up, building, learning, and improving every single day."
+  </i></b>
+</p>
+
+---
