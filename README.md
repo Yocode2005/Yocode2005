@@ -451,3 +451,70 @@ Enhancing logical thinking through contests and challenges.
 </div>
 
 ---
+<!-- ===================================================== -->
+<!--                GITHUB ANALYTICS                       -->
+<!-- ===================================================== -->
+
+# <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="35"/> GitHub Analytics
+
+<p align="center">
+<i>Tracking growth through consistent contributions, meaningful projects, and continuous learning.</i>
+</p>
+
+---
+
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
+
+<p align="center">
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+</p>
+
+---
+
+## 📊 Development Insights
+
+<div align="center">
+
+| 📌 Metric | 🚀 Description |
+|-----------|----------------|
+| 💻 Repositories | Full Stack Projects & Experiments |
+| 🚀 Commits | Continuous Development & Learning |
+| 🔥 Contribution Streak | Consistent Coding Journey |
+| 🌍 Open Source | Exploring & Contributing to Community |
+| 📚 Languages | Modern Web Development Stack |
+| ⚡ Growth | Learning New Technologies Every Day |
+
+</div>
+
+---
+
+## 🏗 Engineering Principles
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Clean_Code-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Scalable_Architecture-4F46E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Performance-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Security-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Maintainability-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### ⚡ Development Philosophy
+
+> **"Consistency compounds over time. Every commit, every project, and every challenge solved contributes to becoming a better software engineer."**
+
+</p>
+
+---
