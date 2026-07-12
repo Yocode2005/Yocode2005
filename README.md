@@ -202,3 +202,109 @@ I believe in continuous learning, writing elegant code, solving meaningful probl
 > **I enjoy optimizing algorithms, refactoring code, and improving system performance—not because it's required, but because great engineering is built on continuous refinement.**
 
 ---
+<!-- ===================================================== -->
+<!--                   TECH STACK                          -->
+<!-- ===================================================== -->
+
+# <img src="https://img.icons8.com/color/48/source-code.png" width="35"/> Tech Stack
+
+<p align="center">
+  <i>Crafting modern, scalable, and high-performance applications using industry-standard technologies.</i>
+</p>
+
+---
+
+## 💻 Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,js,ts,python&perline=6" />
+</p>
+
+---
+
+## 🎨 Frontend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,nextjs,vite,redux&perline=8" />
+</p>
+
+---
+
+## ⚙️ Backend Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express&perline=4" />
+</p>
+
+---
+
+## 🗄️ Database
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&perline=4" />
+</p>
+
+---
+
+## ☁️ Cloud • DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,vercel,netlify,githubactions&perline=5" />
+</p>
+
+---
+
+## 🛠️ Tools & Platforms
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash,npm&perline=8" />
+</p>
+
+---
+
+## 🤖 AI / Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&perline=5" />
+</p>
+
+---
+
+## 📚 Currently Exploring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,graphql,aws&perline=5" />
+</p>
+
+---
+
+## 🏗️ Engineering Concepts
+
+<div align="center">
+
+| 💡 Concept | Status |
+|------------|--------|
+| Object-Oriented Programming | ✅ |
+| Data Structures & Algorithms | ✅ |
+| REST API Development | ✅ |
+| Authentication & Authorization | ✅ |
+| Database Design | ✅ |
+| Responsive Web Design | ✅ |
+| Git & GitHub Workflow | ✅ |
+| MVC Architecture | ✅ |
+| System Design | 🌱 Learning |
+| Cloud Computing | 🌱 Learning |
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Development Philosophy
+
+> **"The right technology is not the one with the most features—it's the one that best solves the problem."**
+
+</div>
+
+---
