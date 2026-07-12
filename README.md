@@ -1,27 +1,299 @@
-# 💫 About Me:
-💻 Passionate Web Developer<br>🤝 Building real-world projects through collaboration<br>📚 continuously learning & improving<br>⚡ Turning ideas into scalable web solutions
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=YOUR%20NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%2FML%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yo_chhandhwal_2005) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Yogesh Meena) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yogeshchhandhwal2005@gmail.com) 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Building+scalable+software+systems;Engineering+AI%2FML+products;Full+Stack+%7C+Cloud+%7C+DevOps;Open+to+Software+Engineering+roles" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yocode2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Yocode2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yocode2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Yocode2005&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Your%20City%2C%20Country-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br/>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Yocode2005&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-5B21B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-4C1D95?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/yourusername?style=flat-square&color=8B5CF6&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/yourusername?style=flat-square&color=8B5CF6&label=STARS)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yocode2005&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About Me
+
+```
+I am a software engineer specializing in building scalable, production-grade
+systems at the intersection of full-stack engineering and applied AI/ML.
+
+My focus is on designing distributed backend architectures, crafting clean
+and performant frontend experiences, and shipping machine learning systems
+that operate reliably in production — not just in notebooks.
+
+I care deeply about engineering rigor: system design, observability,
+security, and performance at scale. I approach every project with a
+product mindset — solving real user problems, not just writing code.
+```
+
+**🎯 Open To:** Software Engineer · Backend Engineer · AI/ML Engineer · Full Stack Engineer · Research Engineer roles
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://skillicons.dev/icons?i=python) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![Go](https://skillicons.dev/icons?i=go)
+
+**Frontend**
+
+![React](https://skillicons.dev/icons?i=react) ![NextJS](https://skillicons.dev/icons?i=nextjs) ![Redux](https://skillicons.dev/icons?i=redux) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css)
+
+**Backend & Databases**
+
+![NodeJS](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Django](https://skillicons.dev/icons?i=django) ![FastAPI](https://skillicons.dev/icons?i=fastapi) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Redis](https://skillicons.dev/icons?i=redis)
+
+**Cloud, DevOps & Tooling**
+
+![AWS](https://skillicons.dev/icons?i=aws) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![GCP](https://skillicons.dev/icons?i=gcp) ![Git](https://skillicons.dev/icons?i=git) ![GithubActions](https://skillicons.dev/icons?i=githubactions) ![Terraform](https://skillicons.dev/icons?i=terraform) ![Linux](https://skillicons.dev/icons?i=linux)
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| Machine Learning Fundamentals | ⭐⭐⭐⭐⭐ | Supervised/unsupervised learning, model evaluation, feature engineering |
+| Deep Learning | ⭐⭐⭐⭐ | CNNs, RNNs, Transformers, PyTorch, TensorFlow |
+| Natural Language Processing | ⭐⭐⭐⭐ | Text classification, embeddings, LLM fine-tuning, RAG pipelines |
+| Computer Vision | ⭐⭐⭐ | Object detection, image classification, OpenCV |
+| MLOps | ⭐⭐⭐⭐ | Model deployment, monitoring, CI/CD for ML, versioning |
+| LLM Engineering | ⭐⭐⭐⭐ | Prompt engineering, vector databases, agentic workflows, API integration |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><b>🚀 Project One — Distributed Task Orchestration Platform</b></summary>
+<br/>
+
+A production-grade distributed system for scheduling and orchestrating asynchronous workloads across microservices, built to handle high-throughput job queues with fault tolerance and horizontal scalability.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Node.js, Go, PostgreSQL, Redis, Kafka, Docker, Kubernetes |
+| Scale | 1M+ jobs processed daily across distributed workers |
+| Performance | Sub-100ms job dispatch latency at p95 |
+| Security | JWT auth, role-based access control, encrypted job payloads |
+| Impact | Reduced job processing failures by 40% and infra cost by 25% |
+| Repository | [github.com/yourusername/project-one](https://github.com/yourusername/project-one) |
+
+Designed with a plugin-based worker architecture, this platform decouples job producers from consumers using a durable message broker, enabling zero-downtime deployments and graceful degradation under load spikes.
+
+</details>
+
+<details>
+<summary><b>🤖 Project Two — AI-Powered Document Intelligence System</b></summary>
+<br/>
+
+An end-to-end RAG-based system that ingests, indexes, and semantically queries large document corpora, enabling natural language Q&A over enterprise knowledge bases.
+
+| Aspect | Detail |
+|---|---|
+| Stack | Python, FastAPI, LangChain, Pinecone, OpenAI API, React |
+| Scale | Indexes 500K+ documents with sub-second retrieval |
+| Performance | 95% retrieval accuracy on internal benchmark set |
+| Security | Row-level document access control, encrypted embeddings storage |
+| Impact | Cut manual document search time by 70% for end users |
+| Repository | [github.com/yourusername/project-two](https://github.com/yourusername/project-two) |
+
+Built with a modular retrieval-augmented generation pipeline, the system supports hybrid search (semantic + keyword), chunk re-ranking, and streaming responses for a responsive user experience.
+
+</details>
+
+<details>
+<summary><b>🛒 Project Three — Real-Time E-Commerce Analytics Dashboard</b></summary>
+<br/>
+
+A real-time analytics platform for e-commerce businesses, streaming transactional data into interactive dashboards for revenue, inventory, and customer behavior insights.
+
+| Aspect | Detail |
+|---|---|
+| Stack | React, Next.js, Node.js, WebSockets, ClickHouse, AWS |
+| Scale | Handles 10K+ events/sec ingestion |
+| Performance | Real-time dashboard updates with <500ms latency |
+| Security | OAuth2 authentication, tenant-level data isolation |
+| Impact | Enabled data-driven decisions leading to 15% revenue uplift |
+| Repository | [github.com/yourusername/project-three](https://github.com/yourusername/project-three) |
+
+Leverages an event-driven architecture with a columnar analytics database to support high-cardinality aggregations in real time, powering executive-facing dashboards.
+
+</details>
+
+---
+
+## Experience
+
+**Software Engineer**
+**Company Name** · *Month Year – Present*
+
+Building and scaling core backend services and AI-driven features for a product used by thousands of users, collaborating cross-functionally with product and design teams.
+
+- Designed and implemented microservices handling critical business logic at scale
+- Built ML-powered features integrated directly into production user flows
+- Improved system reliability through observability, testing, and CI/CD practices
+- Mentored junior engineers and led code review initiatives
+
+`Python` `Node.js` `AWS` `PostgreSQL` `Docker` `Machine Learning`
+
+---
+
+**Software Engineering Intern**
+**Company Name** · *Month Year – Month Year*
+
+Contributed to the development of internal tools and customer-facing features within an agile engineering team.
+
+- Developed REST APIs consumed by multiple frontend clients
+- Optimized database queries, reducing average response time by 30%
+- Wrote unit and integration tests to improve code coverage
+
+`JavaScript` `React` `Express` `MongoDB`
+
+---
+
+## Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| 🏆 Hackathon Winner | 1st Place, National-Level Hackathon, Year |
+| 🌟 Open Source Contributor | Merged PRs into notable open source projects |
+| 📜 Published Research | Co-authored paper on applied ML, Conference/Journal Year |
+| 🎓 Academic Excellence | Top of cohort / Dean's List, Year |
+
+</div>
+
+---
+
+## Certifications
+
+**AWS**
+
+![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-8B5CF6?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS Certified Developer](https://img.shields.io/badge/AWS%20Certified-Developer%20Associate-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Oracle**
+
+![Oracle Certified](https://img.shields.io/badge/Oracle%20Certified-Java%20Programmer-6D28D9?style=for-the-badge&logo=oracle&logoColor=white)
+
+**NPTEL**
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-5B21B6?style=for-the-badge&logo=googlescholar&logoColor=white)
+
+**Cisco**
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking%20Basics-4C1D95?style=for-the-badge&logo=cisco&logoColor=white)
+
+---
+
+## Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-500%2B%20Solved-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Active%20Contributor-7C3AED?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://geeksforgeeks.org/user/yourusername)
+[![HackerRank](https://img.shields.io/badge/HackerRank-5%20Star-6D28D9?style=for-the-badge&logo=hackerrank&logoColor=white)](https://hackerrank.com/yourusername)
+[![CodeChef](https://img.shields.io/badge/CodeChef-4%20Star-5B21B6?style=for-the-badge&logo=codechef&logoColor=white)](https://codechef.com/users/yourusername)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117&border_color=6D28D9&hide_border=false" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=false&stroke=6D28D9&ring=8B5CF6&fire=A78BFA&background=0D1117" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&title_color=A78BFA&text_color=C4B5FD&bg_color=0D1117&border_color=6D28D9&hide_border=false" width="49%"/>
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&row=1&column=7&margin-w=15" />
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&bg_color=0D1117&color=A78BFA&line=8B5CF6&point=C4B5FD&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+current_focus:
+  learning:
+    - Advanced distributed systems design
+    - LLM agent architectures and tool use
+    - Systems-level performance optimization
+  building:
+    - Scalable backend platforms
+    - Production-grade AI/ML pipelines
+  exploring:
+    - Vector databases and retrieval systems
+    - Edge deployment for ML models
+  open_to:
+    - Software Engineering roles
+    - AI/ML Engineering roles
+    - Full Stack Engineering roles
+    - Open source collaboration
+```
+
+---
+
+## Connect
+
+[![Gmail](https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-5B21B6?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.dev)
+
+---
+
+<div align="center">
+
+*"Great software is built at the intersection of engineering discipline and product empathy."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+
+</div>
