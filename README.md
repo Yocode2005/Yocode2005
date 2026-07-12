@@ -8,8 +8,8 @@
 
 <br/>
 
-![B.Tech](https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-Your%20City%2C%20Country-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
+![B.Tech](https://img.shields.io/badge/B.Tech-Computational%20Mechanics-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Jaipur%20City%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
 
