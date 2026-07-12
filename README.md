@@ -95,3 +95,110 @@ Building scalable software, crafting exceptional digital experiences, and contin
 </p>
 
 <!-- ===================================================== -->
+<!-- ===================================================== -->
+<!--                     ABOUT ME                          -->
+<!-- ===================================================== -->
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> About Me
+
+<img align="right" alt="Coding" width="360" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+I'm **Yogesh Kumar Meena**, a passionate **Software Engineer** and **B.Tech student at National Institute of Technology (NIT) Jamshedpur**, dedicated to building scalable, high-performance, and user-centric software solutions.
+
+I enjoy transforming complex ideas into clean, maintainable, and production-ready applications. My expertise lies in **Full Stack Development** using the **MERN Stack**, while continuously expanding my knowledge in **Artificial Intelligence**, **Machine Learning**, **Cloud Technologies**, and **System Design**.
+
+Beyond development, I actively strengthen my problem-solving skills through **Data Structures & Algorithms**, explore modern engineering practices, and contribute to projects that solve real-world challenges.
+
+---
+
+## 🚀 Engineering Philosophy
+
+> *"Great software isn't just written—it's carefully engineered, continuously refined, and designed to create lasting impact."*
+
+---
+
+## 💡 What I Do
+
+- 🚀 Build scalable Full Stack Web Applications
+- ⚙️ Design secure and efficient REST APIs
+- 💻 Write clean, maintainable, and reusable code
+- 📊 Solve Data Structures & Algorithms problems daily
+- 🤖 Explore Artificial Intelligence & Machine Learning
+- 🌍 Learn scalable software architecture and system design
+- 📚 Continuously improve engineering fundamentals
+- 🤝 Contribute to impactful real-world projects
+
+---
+
+## 🎯 Career Vision
+
+My goal is to become a world-class **Software Engineer** capable of designing highly scalable systems, building impactful products, and contributing to open-source technologies that make a difference.
+
+I believe in continuous learning, writing elegant code, solving meaningful problems, and never settling for average.
+
+---
+
+## ⚡ Professional Snapshot
+
+<div align="center">
+
+| 🏷️ Category | 📌 Details |
+|-------------|------------|
+| 🎓 Education | B.Tech — National Institute of Technology Jamshedpur |
+| 💻 Specialization | Full Stack Development (MERN) |
+| 🌱 Currently Learning | AI • Machine Learning • System Design • Cloud |
+| 💬 Ask Me About | React • Node.js • Express • MongoDB • JavaScript • C++ |
+| 🎯 Career Goal | Software Engineer @ Top Product-Based Company |
+| 🚀 Interests | Open Source • Web Development • Problem Solving |
+
+</div>
+
+---
+
+## 🧬 Engineering DNA
+
+<div align="center">
+
+| Skill | Level |
+|--------|-------|
+| 💻 Full Stack Development | ██████████ 95% |
+| 🧠 Problem Solving (DSA) | █████████ 90% |
+| ⚛️ Frontend Development | █████████ 90% |
+| ⚙️ Backend Development | █████████ 88% |
+| 🗄️ Database Design | ████████ 85% |
+| 🤖 AI / ML | ██████ 65% |
+| ☁️ Cloud & DevOps | █████ 55% |
+
+</div>
+
+---
+
+## 🌟 Core Strengths
+
+✔ Scalable Application Development
+
+✔ Clean Architecture
+
+✔ REST API Design
+
+✔ Database Modeling
+
+✔ Object-Oriented Programming
+
+✔ Problem Solving
+
+✔ Team Collaboration
+
+✔ Continuous Learning
+
+✔ Engineering Mindset
+
+✔ Growth-Oriented Approach
+
+---
+
+## ⚡ Fun Fact
+
+> **I enjoy optimizing algorithms, refactoring code, and improving system performance—not because it's required, but because great engineering is built on continuous refinement.**
+
+---
