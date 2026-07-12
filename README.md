@@ -518,3 +518,60 @@ Enhancing logical thinking through contests and challenges.
 </p>
 
 ---
+<!-- ===================================================== -->
+<!--                 GITHUB TROPHIES                       -->
+<!-- ===================================================== -->
+
+# <img src="https://img.icons8.com/fluency/48/trophy.png" width="35"/> GitHub Trophies
+
+<p align="center">
+<i>Celebrating consistency, dedication, and continuous growth through meaningful contributions and engineering excellence.</i>
+</p>
+
+---
+
+<p align="center">
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
+</p>
+
+---
+
+## 🏅 Achievement Highlights
+
+<div align="center">
+
+| 🏆 Recognition | 🚀 Represents |
+|---------------|---------------|
+| ⭐ Consistency | Regular coding & continuous improvement |
+| 💻 Engineering | Building scalable software & real-world projects |
+| 🌍 Open Source | Learning, collaborating & contributing |
+| 📈 Growth | Constantly expanding technical expertise |
+| 🚀 Innovation | Exploring modern technologies & best practices |
+
+</div>
+
+---
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Engineering-Excellence-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open_Source-Contributor-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Continuous-Learning-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Never_Stop-Building-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💎 Engineering Mindset
+
+> **"Success in software engineering is not measured by a single achievement, but by the consistency of learning, building, and improving every single day."**
+
+</div>
+
+---
