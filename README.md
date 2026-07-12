@@ -308,3 +308,146 @@ I believe in continuous learning, writing elegant code, solving meaningful probl
 </div>
 
 ---
+<!-- ===================================================== -->
+<!--                 CODING PROFILES                       -->
+<!-- ===================================================== -->
+
+# <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-coding-web-development-flatart-icons-outline-flatarticons.png" width="35"/> Coding Profiles
+
+<p align="center">
+<i>Strengthening problem-solving skills through competitive programming, algorithmic thinking, and continuous learning.</i>
+</p>
+
+---
+
+<div align="center">
+
+<table>
+
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="55"/>
+
+### LeetCode
+
+Sharpening problem-solving skills through Data Structures & Algorithms.
+
+<br>
+
+<a href="https://leetcode.com/u/YOUR_USERNAME/">
+
+<img src="https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="55"/>
+
+### GeeksforGeeks
+
+Practicing coding challenges and interview preparation.
+
+<br>
+
+<a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/">
+
+<img src="https://img.shields.io/badge/View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="55"/>
+
+### HackerRank
+
+Improving programming fundamentals across multiple domains.
+
+<br>
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+
+<img src="https://img.shields.io/badge/View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+
+</a>
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://cdn.simpleicons.org/codechef/5B4638" width="55"/>
+
+### CodeChef
+
+Enhancing logical thinking through contests and challenges.
+
+<br>
+
+<a href="https://www.codechef.com/users/YOUR_USERNAME">
+
+<img src="https://img.shields.io/badge/View_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+## 🎯 Competitive Programming
+
+<div align="center">
+
+| Category | Details |
+|:---------|:--------|
+| 💻 Primary Language | **C++** |
+| 🧠 Focus | Data Structures & Algorithms |
+| ⚡ Core Topics | Arrays • Strings • Linked Lists • Trees • Graphs • DP |
+| 📈 Practice | Daily Problem Solving & Contest Participation |
+| 🎯 Goal | Strong Problem Solving & Software Engineering Skills |
+
+</div>
+
+---
+
+## 🏅 Problem Solving Mindset
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DSA-Daily_Practice-7C3AED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/C++-Primary_Language-2563EB?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Competitive_Programming-Active-orange?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Learning-Never_Stops-success?style=for-the-badge"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Engineering Quote
+
+> **"Every solved problem strengthens analytical thinking, and every challenge solved today becomes experience for tomorrow."**
+
+</div>
+
+---
