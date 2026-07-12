@@ -786,3 +786,20 @@ If you like my work, consider ⭐ starring my repositories and connecting with m
 </p>
 
 ---
+<!-- ===================================================== -->
+<!--                       FOOTER                          -->
+<!-- ===================================================== -->
+
+<div align="center">
+
+### ✨ *"Engineering is not just about writing code—it's about solving problems, creating impact, and continuously pushing the limits of innovation."*
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=4000&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Thank+you+for+visiting+my+GitHub+Profile.;Let's+Build+Something+Amazing+Together.;Always+Learning+%7C+Always+Building+%7C+Always+Growing."/>
+
+<br><br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0D1117,20:312E81,45:6D28D9,70:8B5CF6,100:2563EB"/>
+
+</div>
