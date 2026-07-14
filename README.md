@@ -396,7 +396,7 @@ Enhancing logical thinking through contests and challenges.
 
 <a href="https://codeforces.com/profile/YKM.DEV">
 
-<img src="[![Codeforces](https://skillicons.dev/icons?i=codeforces)](https://codeforces.com/profile/YKM.DEV)"/>
+<img src="https://img.shields.io/badge/View_Profile-2F8D46?style=for-the-badge&logo=codeforces&logoColor=white"/>
 
 </a>
 
