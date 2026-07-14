@@ -34,15 +34,15 @@ Building scalable software, crafting exceptional digital experiences, and contin
 <img src="https://img.shields.io/badge/📄_Resume-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
+<a href="https://in.linkedin.com/in/yogesh-meena-">
 <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yogeshchhandhwal2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Yocode2005">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
