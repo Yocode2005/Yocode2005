@@ -30,7 +30,7 @@ Building scalable software, crafting exceptional digital experiences, and contin
 <img src="https://img.shields.io/badge/🌐_Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="YOUR_RESUME">
+<a href="https://github.com/Yocode2005/Yocode2005/blob/main/Resume%20for%20job%20.pdf">
 <img src="https://img.shields.io/badge/📄_Resume-4F46E5?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
