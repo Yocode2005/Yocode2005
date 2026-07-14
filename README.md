@@ -336,7 +336,7 @@ Sharpening problem-solving skills through Data Structures & Algorithms.
 
 <br>
 
-<a href="https://leetcode.com/u/YOUR_USERNAME/">
+<a href="https://leetcode.com/u/Yogesh-leetcode/">
 
 <img src="https://img.shields.io/badge/View_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 
@@ -354,7 +354,7 @@ Practicing coding challenges and interview preparation.
 
 <br>
 
-<a href="https://auth.geeksforgeeks.org/user/YOUR_USERNAME/">
+<a href="https://auth.geeksforgeeks.org/user/yogeshchhan39dr/">
 
 <img src="https://img.shields.io/badge/View_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 
@@ -376,7 +376,7 @@ Improving programming fundamentals across multiple domains.
 
 <br>
 
-<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<a href="https://www.hackerrank.com/yogeshchhandhwa1">
 
 <img src="https://img.shields.io/badge/View_Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
 
@@ -388,15 +388,15 @@ Improving programming fundamentals across multiple domains.
 
 <img src="https://cdn.simpleicons.org/codechef/5B4638" width="55"/>
 
-### CodeChef
+### CodeForces
 
 Enhancing logical thinking through contests and challenges.
 
 <br>
 
-<a href="https://www.codechef.com/users/YOUR_USERNAME">
+<a href="https://codeforces.com/profile/YKM.DEV">
 
-<img src="https://img.shields.io/badge/View_Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+<img src="https://img.shields.io/badge/View_Profile-5B4638?style=for-the-badge&logo=codeforces&logoColor=white"/>
 
 </a>
 
@@ -464,12 +464,12 @@ Enhancing logical thinking through contests and challenges.
 ---
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yocode2005&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Yocode2005&theme=tokyonight&hide_border=true&border_radius=15"/>
 </p>
 
 <p align="center">
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yocode2005&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&langs_count=8"/>
 </p>
 
 ---
@@ -531,7 +531,7 @@ Enhancing logical thinking through contests and challenges.
 ---
 
 <p align="center">
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Yocode2005&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4"/>
 </p>
 
 ---
@@ -590,7 +590,7 @@ Enhancing logical thinking through contests and challenges.
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=c084fc&line=8b5cf6&point=ffffff&area=true&hide_border=true&radius=16&title_color=c084fc&custom_title=Contribution%20Activity"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Yocode2005&bg_color=0d1117&color=c084fc&line=8b5cf6&point=ffffff&area=true&hide_border=true&radius=16&title_color=c084fc&custom_title=Contribution%20Activity"
     alt="Contribution Activity Graph"
   />
 </p>
@@ -619,7 +619,7 @@ Enhancing logical thinking through contests and challenges.
 <p align="center">
   <img
     width="100%"
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/Yocode2005/Yocode2005/output/github-contribution-grid-snake-dark.svg"
     alt="Contribution Snake Animation"
   />
 </p>
@@ -733,15 +733,15 @@ life_philosophy:
 
 <p align="center">
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:yogeshchhandhwal2005@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+<a href="https://www.linkedin.com/in/yogesh-meena-/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Yocode2005">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
