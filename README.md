@@ -78,11 +78,11 @@ Building scalable software, crafting exceptional digital experiences, and contin
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Yocode2005&label=Profile%20Views&color=7C3AED&style=for-the-badge"/>
 
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=2563EB&label=Followers"/>
+<img src="https://img.shields.io/github/followers/Yocode2005?style=for-the-badge&color=2563EB&label=Followers"/>
 
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=7C3AED&label=Stars"/>
+<img src="https://img.shields.io/github/stars/Yocode2005?affiliations=OWNER&style=for-the-badge&color=7C3AED&label=Stars"/>
 
 </p>
 
@@ -396,7 +396,7 @@ Enhancing logical thinking through contests and challenges.
 
 <a href="https://codeforces.com/profile/YKM.DEV">
 
-<img src="https://img.shields.io/badge/View_Profile-5B4638?style=for-the-badge&logo=codeforces&logoColor=white"/>
+<img src="[![Codeforces](https://img.shields.io/badge/View_Profile-445F9D?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YKM.DEV)"/>
 
 </a>
 
